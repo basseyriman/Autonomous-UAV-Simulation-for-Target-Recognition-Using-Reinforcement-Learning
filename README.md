@@ -1,7 +1,7 @@
 # 🚁 Autonomous UAV Simulation for Target Recognition Using Reinforcement Learning
 
 ## 👨‍💻 Author: Bassey Riman  
-**Student ID:** Q2034066  
+**ID:** Q2034066  
 **Email:** Q2034066@live.tees.ac.uk
 
 ---
